@@ -34,7 +34,7 @@ public class PrintMode
     /*
      * abstract methods removed because each of them are only used in
      * a single subclass, so the methods are moved to that subclass
-     * now it follows Liskov  substitution principle
+     * now it follows Liskov substitution principle
      * it also follows Interface segregation principle, as no child has
      * to use any abstract function that it doesn't use anymore
      */
